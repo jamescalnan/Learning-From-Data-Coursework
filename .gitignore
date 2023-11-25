@@ -3,3 +3,4 @@ distilbert_finetuned_full_model.pth
 raw_partner_headlines.csv
 analyst_ratings_processed.csv
 distilbert_finetuned.pth
+finbert_pipeline.pkl
