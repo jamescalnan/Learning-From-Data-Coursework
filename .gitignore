@@ -4,3 +4,4 @@ raw_partner_headlines.csv
 analyst_ratings_processed.csv
 distilbert_finetuned.pth
 finbert_pipeline.pkl
+raw_partner_headlines.csv

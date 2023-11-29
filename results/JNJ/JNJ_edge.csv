@@ -1,0 +1,11 @@
+,Edge
+Sentiment_finbert,0.5789473684210527
+Sentiment_GradientBoostingClassifier,0.539872408293461
+Sentiment_RandomForestClassifier,0.539872408293461
+Sentiment_DecisionTreeClassifier,0.5390749601275917
+Sentiment_XGBClassifier,0.5287081339712919
+Sentiment_LogisticRegression,0.5271132376395534
+Sentiment_MultinomialNB,0.507177033492823
+Sentiment_KNeighborsClassifier,0.5063795853269537
+Sentiment_SGDClassifier,0.5007974481658692
+Sentiment_Random,0.47303271441202477
