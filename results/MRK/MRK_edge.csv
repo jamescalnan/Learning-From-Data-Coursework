@@ -3,9 +3,10 @@ Sentiment_finbert,0.568882796435915
 Sentiment_RandomForestClassifier,0.5496915695681974
 Sentiment_XGBClassifier,0.5476353666895134
 Sentiment_GradientBoostingClassifier,0.544893762851268
+Sentiment_ensemble,0.5414667580534612
 Sentiment_DecisionTreeClassifier,0.5407813570939
 Sentiment_LogisticRegression,0.5222755311857437
 Sentiment_SGDClassifier,0.5099383139136395
 Sentiment_KNeighborsClassifier,0.5078821110349554
 Sentiment_MultinomialNB,0.5071967100753941
-Sentiment_Random,0.49506759225429303
+Sentiment_Random,0.4892217756667884
