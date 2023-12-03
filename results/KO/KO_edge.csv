@@ -6,6 +6,7 @@ Sentiment_GradientBoostingClassifier,0.5236617532971296
 Sentiment_XGBClassifier,0.5228859581070597
 Sentiment_SGDClassifier,0.5213343677269201
 Sentiment_RandomForestClassifier,0.5213343677269201
+Sentiment_ensemble,0.5213343677269201
 Sentiment_MultinomialNB,0.517455391776571
 Sentiment_KNeighborsClassifier,0.5159038013964313
-Sentiment_Random,0.47156827236508514
+Sentiment_Random,0.4976457805143064
