@@ -8,5 +8,5 @@ Sentiment_RandomForestClassifier,0.5558086560364465
 Sentiment_LogisticRegression,0.5535307517084282
 Sentiment_SGDClassifier,0.5436598329536826
 Sentiment_MultinomialNB,0.5383447228549735
+Sentiment_Random,0.5170172084130019
 Sentiment_KNeighborsClassifier,0.5148063781321185
-Sentiment_Random,0.4848948374760994
