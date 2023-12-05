@@ -33,7 +33,7 @@ This project uses machine learning techniques for financial sentiment analysis. 
 ```
 
 
-## Research Paper
+## Executive Summary Paper
 ### Key Aspects:
 - **Introduction and Research Question**
 - **Machine Learning Models**
