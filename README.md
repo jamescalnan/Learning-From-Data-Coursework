@@ -1,23 +1,59 @@
-# Learning from Data ECM3420: Leveraging Machine Learning for Financial Sentiment Analysis 
+# Project Title: Leveraging Machine Learning for Financial Sentiment Analysis
 
 ## Overview
-This project explores the use of machine learning techniques in financial sentiment analysis, specifically focusing on how these techniques can classify the sentiment of financial news and predict stock market trends. The project includes a comprehensive research paper and a detailed presentation outlining the methodology, data sources, model selection, and findings.
+This project uses machine learning techniques for financial sentiment analysis. It aims to classify financial news sentiment and predict stock market trends. The repository includes a research paper and a presentation detailing methodology, data sources, model selection, and findings.
 
-## Executive Overview Paper
+## File Structure
+```
+├── confusion_plots
+│ ├── [Confusion matrix images...]
+├── Data Analysis FinBERT.ipynb
+├── Data Analysis with all pretrained.ipynb
+├── input_data
+│ ├── [Data files...]
+├── logs
+│ ├── [TensorFlow event files...]
+├── models
+│ ├── [Model files...]
+├── news_data_with_sentiment
+│ ├── [News data with sentiment files...]
+├── README.md
+├── results
+│ ├── [Folders for each stock with result images and files...]
+│ └── MS
+│ ├── Sentiment_DecisionTreeClassifier_ms.png
+│ ├── [Other result images for MS...]
+├── stock_data
+│ ├── [Historical stock data files...]
+├── stock_data_wtih_features
+│ ├── [Stock data with features...]
+├── Stock Predictor With Comparison.ipynb
+└── submission contents
+├── [Submission documents...]```
+
+
+## Research Paper
 ### Key Aspects:
-- **Introduction and Research Question**: Exploration of machine learning's role in interpreting financial news sentiment and its impact on market trends.
-- **Machine Learning Models**: In-depth analysis of various models like Logistic Regression, Random Forest, KNeighborsClassifier, and advanced ensemble models for financial sentiment analysis.
-- **Data Preparation and Challenges**: Insights into data sources, preprocessing steps, and challenges faced during the study.
-- **Application to Unseen Data**: Testing the models on new data sets to evaluate their predictive capabilities.
-- **Trading Simulation and Model Edge**: A simulated trading strategy based on the sentiment analysis to demonstrate practical applicability.
-- **Reflection and Conclusion**: Discussion on model selection, research limitations, and concluding remarks.
+- **Introduction and Research Question**
+- **Machine Learning Models**
+- **Data Preparation and Challenges**
+- **Application to Unseen Data**
+- **Trading Simulation and Model Edge**
+- **Reflection and Conclusion**
 
 ## Presentation
 ### Highlights:
-- **Overview of the Topic**: Introducing the significance of machine learning in financial sentiment analysis.
-- **Data Sources and Preparation**: Details of the datasets used and preparation steps undertaken.
-- **Machine Learning Techniques**: Explanation of the rationale behind model selection.
-- **Data Analysis and Results**: Presentation of model performance metrics and results.
-- **Trading Simulation Insights**: Discussion on the application of models to simulated trading scenarios.
-- **Detailed Analysis and Future Research**: Addressing the limitations and potential future directions for this research.
+- **Overview of the Topic**
+- **Data Sources and Preparation**
+- **Machine Learning Techniques**
+- **Data Analysis and Results**
+- **Trading Simulation Insights**
+- **Detailed Analysis and Future Research**
+
+## Image Reference
+- **Decision Tree Classifier Trading Results for MS**: ![Sentiment Decision Tree Classifier Trading Results for MS](results/MS/Sentiment_DecisionTreeClassifier_ms.png)
+
+## How to Use
+- Read the research paper for detailed methodologies and findings.
+- View the presentation for a summary and visual representation of the key points and results.
 
