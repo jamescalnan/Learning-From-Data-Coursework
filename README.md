@@ -29,7 +29,8 @@ This project uses machine learning techniques for financial sentiment analysis. 
 │ ├── [Stock data with features...]
 ├── Stock Predictor With Comparison.ipynb
 └── submission contents
-├── [Submission documents...]```
+├── [Submission documents...]
+```
 
 
 ## Research Paper
