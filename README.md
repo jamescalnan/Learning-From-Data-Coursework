@@ -1,5 +1,7 @@
 # Learning from Data ECM3420: Leveraging Machine Learning for Financial Sentiment Analysis
 
+## Grade: 85/100
+
 ## Overview
 This project uses machine learning techniques for financial sentiment analysis. It aims to classify financial news sentiment and predict stock market trends. The repository includes a research paper and a presentation detailing methodology, data sources, model selection, and findings.
 
